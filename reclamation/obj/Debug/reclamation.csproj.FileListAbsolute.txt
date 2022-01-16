@@ -1,0 +1,140 @@
+C:\Users\Swimo\source\repos\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\Swimo\source\repos\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\Swimo\source\repos\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\Swimo\source\repos\reclamation\reclamation\bin\Debug\Guna.UI2.dll
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.affichage_des_reclamation.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.csprojAssemblyReference.cache
+C:\Users\Swimo\source\repos\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\kaoutar\Desktop\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\kaoutar\Desktop\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.affichage_des_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\kaoutar\Desktop\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\bin\Debug\Guna.UI2.dll
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.affichage_des_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\Swimo\Desktop\New folder\reclamation\reclamation\obj\Debug\reclamation.csprojAssemblyReference.cache
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\bin\Debug\Guna.UI2.dll
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\Swimo\Desktop\New folder (2)\reclamation\reclamation\obj\Debug\reclamation.ajouter_etablissement.resources
+E:\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe.config
+E:\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe
+E:\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.pdb
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csprojAssemblyReference.cache
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.ajouter_etablissement.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.exe
+E:\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\Guna.UI2.dll
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csprojAssemblyReference.cache
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.ajouter_etablissement.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\kaoutar\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.pdb
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe.config
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.exe
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\bin\Debug\reclamation.pdb
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.AssemblyReference.cache
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.acceuil.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.afficher_reclamation.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.ajouter_etablissement.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.cart_reclamation.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage_de_reclamation.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.envoyage.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Form1.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.imprimer.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.Properties.Resources.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie_d_une_reclamation.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.suivie.resources
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.GenerateResource.cache
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CoreCompileInputs.cache
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.csproj.CopyComplete
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.exe
+C:\Users\simo\Desktop\reclamation fin\reclamation\reclamation\obj\Debug\reclamation.pdb
